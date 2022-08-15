@@ -32,5 +32,23 @@ public class AdamasEvents {
         if (item.equals(DIAMOND_BOOTS)){
             event.setBurnTime(204800);
         }
+        if (item.equals(DIAMOND_SWORD)){
+            event.setBurnTime(51300);
+        }
+        if (item.equals(DIAMOND_PICKAXE)){
+            event.setBurnTime(51300);
+        }
+        if (item.equals(DIAMOND_AXE)){
+            event.setBurnTime(51300);
+        }
+        if (item.equals(DIAMOND_HOE)){
+            event.setBurnTime(51300);
+        }
+        if (item.equals(DIAMOND_SHOVEL)){
+            event.setBurnTime(51300);
+        }
+        if (item.equals(DIAMOND_HORSE_ARMOR)){
+            event.setBurnTime(200000);
+        }
     }
 }
