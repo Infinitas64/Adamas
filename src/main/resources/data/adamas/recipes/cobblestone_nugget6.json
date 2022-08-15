@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+    "item": "minecraft:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "adamas:cobblestone_nugget",
+    "count": 9
+  }
+}
